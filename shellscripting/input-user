@@ -1,0 +1,13 @@
+#!/bin/bash
+#take input from user
+
+
+echo "what is your name"
+
+
+read name
+
+
+
+
+echo "hi, $name, welcome to bash"

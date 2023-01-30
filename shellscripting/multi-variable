@@ -1,0 +1,14 @@
+#!/bin/bash
+#define multiple variable
+
+
+
+name=savita
+age=30
+profession=deops_engineer
+team=devops_team
+
+
+#calling variable
+
+echo "my name is $name,i am $age yers old,i am $profession and i am part of $team"

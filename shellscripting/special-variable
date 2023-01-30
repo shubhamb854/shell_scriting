@@ -1,0 +1,24 @@
+#!/bin/bash
+#special variable
+
+echo "script name $0"
+
+echo "1st param name= $1"
+
+echo "2nd param= $2"
+
+echo "3rd param= $3"
+
+echo "4th param= $4"
+
+echo "exit status= $?"
+
+echo "total no of param= $#"
+
+echo "total no of param= $@"
+
+echo "process-id= $$
+
+echo "last param of priv command= $_
+
+echo "process-id of last backg command= $!"
