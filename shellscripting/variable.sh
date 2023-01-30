@@ -1,10 +1,10 @@
 #!/bin/bash
-#calling variable
+#define veriable
 #
 #
-#
-name=savita
+name=shubham
 
-#define user
+#calling variable
+
 
 echo "my name is $name"
